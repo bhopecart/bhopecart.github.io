@@ -35,6 +35,11 @@ p {
   line-height:1.2;
 }
 
+p a {
+  text-decoration:underline;
+  color:black;
+}
+
 h3{
   text-transform:uppercase;
   font-weight:300;
