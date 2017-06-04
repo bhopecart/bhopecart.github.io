@@ -4,6 +4,11 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
+a {
+  text-decoration:none;
+  color:white;
+}
+
 header {
   padding:6%;
   margin-bottom:2%;
@@ -48,21 +53,14 @@ h3{
 
 /*NAV SECTION*/
 
-a {
-  text-decoration:none;
-  color:default;
-}
 
 
 nav a:hover {
 
   font-style:italic;
   font-color:gray;
+  text-decoration:none;
 
-}
-
-a:visited {
-  color:default;
 }
 
 /*TOP SECTION STYLES*/
