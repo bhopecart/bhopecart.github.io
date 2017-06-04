@@ -40,6 +40,11 @@ p a {
   color:black;
 }
 
+#about-me-section a {
+  text-decoration:underline;
+  color:white;
+}
+
 h3{
   text-transform:uppercase;
   font-weight:300;

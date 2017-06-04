@@ -94,24 +94,24 @@ function hideItems() {
 
 $("#writing").click(function(){
 	hideItems();
-	$(".items.writing").slideDown(3000);
+	$(".items.writing").show(3000);
 
 });
 
 $("#graphics").click(function(){
 	hideItems();
-	$(".items.graphics").slideDown(3000);
+	$(".items.graphics").show(3000);
 });
 
 $("#layout").click(function(){
 	hideItems();
-	$(".items.layout").slideDown(3000);
+	$(".items.layout").show(3000);
 
 });
 
 $("#reset").click(function(){
 	hideItems();
-	$(".items").slideDown(3000);
+	$(".items").show(3000);
 
 });
 
