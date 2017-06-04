@@ -19,6 +19,10 @@ nav {
   
 }
 
+nav a {
+  color:gray;
+}
+
 p {
   font-family: 'Istok Web', sans-serif;
   letter-spacing:.25em;
@@ -266,6 +270,7 @@ font-size: 12px;
 
 #resume-download {
   text-align:center;
+  color:white;
 }
 
 
